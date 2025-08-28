@@ -1,0 +1,32 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #f0f3ff;
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  border: 2px solid #000000;
+  padding: 20px;
+  margin: 20px;
+}
+
+.intro {
+  background-color: #ffe4b5; 
+}
+
+.websites {
+  background-color: #ffe4b5; 
+}
+
+.locations {
+  background-color: #ffe4b5; 
+}
+
+.hobbies {
+  background-color: #ffe4b5;
+}
+
+.additional-info {
+  background-color: #ffe4b5; 
+}
